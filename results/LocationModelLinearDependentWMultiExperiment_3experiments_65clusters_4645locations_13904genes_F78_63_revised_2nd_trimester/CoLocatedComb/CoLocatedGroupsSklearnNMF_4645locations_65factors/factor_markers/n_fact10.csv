@@ -1,0 +1,11 @@
+,top-1,top-2,top-3,top-4,top-5,top-6,top-7,top-8,top-9,top-10
+mean_cell_type_factorsfact_0,mLTo: 0.99,LEC4 (STAB2+): 0.89,LEC2 (MADCAM1+): 0.76,Immature B: 0.59,Glia 1 (DHH+): 0.57,Venous ECs: 0.57,Neuroblast: 0.51,angiogenic pericyte: 0.48,SELL+ CD8 T: 0.45,Contractile pericyte (PLN+): 0.41
+mean_cell_type_factorsfact_1,Colonocyte: 0.97,Enterocyte: 0.76,Pre-B: 0.73,Tuft: 0.69,Mesoderm 1 (HAND1+): 0.62,LTi-like NK/T: 0.6,Macrophages: 0.52,EECs: 0.42,LEC5 (CLDN11+): 0.35,ILCP: 0.31
+mean_cell_type_factorsfact_2,BEST4+ epithelial: 0.96,Megakaryocyte: 0.76,Activated T: 0.76,Treg: 0.67,Microfold cell: 0.63,TRDV2/TRGV9 gdT: 0.32,pDC: 0.27,Enterocyte: 0.24,EECs: 0.22,LTi-like NK/T: 0.22
+mean_cell_type_factorsfact_3,Stromal 3: 0.98,angiogenic pericyte: 0.52,Glia 1 (DHH+): 0.43,RBC: 0.39,LYVE1+ Macrophages: 0.38,Contractile pericyte (PLN+): 0.37,Neuroblast: 0.31,Venous ECs: 0.29,Mesothelium: 0.15,SMC (PART1/CAPN3+): 0.13
+mean_cell_type_factorsfact_4,ENS Prog/cycling: 0.79,Contractile pericyte (PLN+): 0.22,SELL+ CD8 T: 0.18,Neuroblast: 0.17,Branch B: 0.15,ICC: 0.12,Pro-B: 0.11,Differentiating glia: 0.086,SMC (PLPP2+): 0.059,Goblet cell: 0.041
+mean_cell_type_factorsfact_5,Mesoderm 2 (ZEB2+): 0.97,Pro-B: 0.54,Arterial ECs: 0.26,Pericyte: 0.23,RBC: 0.2,CLP: 0.18,LYVE1+ Macrophages: 0.17,Venous ECs: 0.14,Mast cell: 0.12,ENS Prog/cycling: 0.12
+mean_cell_type_factorsfact_6,Branch A: 0.95,Branch B: 0.77,ICC: 0.52,Glia 3 (BCAN+): 0.38,SMC (PART1/CAPN3+): 0.35,SMC (PLPP2+): 0.093,SELL+ CD8 T: 0.044,Mesoderm 1 (HAND1+): 0.031,SELL+ CD4 T: 0.019,ENS Prog/cycling: 0.014
+mean_cell_type_factorsfact_7,myofibroblast (RSPO2+): 0.92,cDC2: 0.58,Stromal 1: 0.51,Pericyte: 0.37,SELL+ CD4 T: 0.33,capillary: 0.3,TA: 0.28,Goblet cell: 0.25,Mast cell: 0.22,Pro-B: 0.19
+mean_cell_type_factorsfact_8,SMC (PLPP2+): 0.79,SMC (PART1/CAPN3+): 0.38,ICC: 0.22,Mesothelium: 0.077,Branch B: 0.073,SELL+ CD8 T: 0.053,ENS Prog/cycling: 0.037,SELL+ CD4 T: 0.022,Mesoderm 1 (HAND1+): 0.021,Stem cells: 0.012
+mean_cell_type_factorsfact_9,Paneth: 0.91,Stem cells: 0.91,Epithelial progenitors: 0.83,ILC2: 0.82,NK T cell: 0.76,Stromal 2: 0.75,NK cell: 0.74,cDC1: 0.74,LEC1 (ACKR4+): 0.73,Glia 2 (ELN+): 0.73

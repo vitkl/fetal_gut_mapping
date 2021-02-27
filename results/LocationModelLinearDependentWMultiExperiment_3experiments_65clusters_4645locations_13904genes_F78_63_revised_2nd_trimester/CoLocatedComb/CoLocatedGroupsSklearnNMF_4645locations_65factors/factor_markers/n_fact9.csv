@@ -1,0 +1,10 @@
+,top-1,top-2,top-3,top-4,top-5,top-6,top-7,top-8,top-9,top-10
+mean_cell_type_factorsfact_0,Stromal 2: 0.81,Glia 2 (ELN+): 0.65,capillary: 0.65,Stromal 1: 0.5,Macrophages: 0.4,Arterial ECs: 0.39,LEC5 (CLDN11+): 0.38,Lymphoid DC: 0.38,NK cell: 0.33,Pericyte: 0.33
+mean_cell_type_factorsfact_1,SMC (PLPP2+): 0.94,SMC (PART1/CAPN3+): 0.3,ICC: 0.24,Branch B: 0.11,ENS Prog/cycling: 0.091,SELL+ CD8 T: 0.069,Mesothelium: 0.043,Contractile pericyte (PLN+): 0.014,SELL+ CD4 T: 0.014,Mesoderm 1 (HAND1+): 0.013
+mean_cell_type_factorsfact_2,Stromal 3: 1.0,angiogenic pericyte: 0.88,Glia 1 (DHH+): 0.88,Contractile pericyte (PLN+): 0.7,Neuroblast: 0.59,LEC4 (STAB2+): 0.52,RBC: 0.51,Venous ECs: 0.51,LYVE1+ Macrophages: 0.44,SELL+ CD8 T: 0.2
+mean_cell_type_factorsfact_3,Branch A: 0.97,Branch B: 0.88,ICC: 0.44,Glia 3 (BCAN+): 0.24,ENS Prog/cycling: 0.2,SMC (PART1/CAPN3+): 0.18,SELL+ CD8 T: 0.069,Neuroblast: 0.052,Differentiating glia: 0.015,Mesoderm 1 (HAND1+): 0.013
+mean_cell_type_factorsfact_4,Stem cells: 1.0,Paneth: 0.97,TA: 0.92,Epithelial progenitors: 0.75,Mesothelium: 0.67,NK T cell: 0.64,Goblet cell: 0.61,ILC2: 0.59,CLP: 0.56,LEC1 (ACKR4+): 0.56
+mean_cell_type_factorsfact_5,Mesoderm 2 (ZEB2+): 0.99,Pro-B: 0.7,ENS Prog/cycling: 0.52,Arterial ECs: 0.35,Pericyte: 0.34,RBC: 0.32,Venous ECs: 0.24,LYVE1+ Macrophages: 0.24,CLP: 0.17,myofibroblast (RSPO2+): 0.14
+mean_cell_type_factorsfact_6,BEST4+ epithelial: 0.94,Megakaryocyte: 0.75,Activated T: 0.72,Treg: 0.6,Microfold cell: 0.47,TRDV2/TRGV9 gdT: 0.24,pDC: 0.2,Enterocyte: 0.16,LTi-like NK/T: 0.15,Stromal 2: 0.13
+mean_cell_type_factorsfact_7,myofibroblast (RSPO2+): 0.84,mLTo: 0.72,LEC2 (MADCAM1+): 0.68,cDC2: 0.57,LEC4 (STAB2+): 0.46,Stromal 1: 0.39,SELL+ CD8 T: 0.35,Neuroblast: 0.29,Pericyte: 0.27,SELL+ CD4 T: 0.27
+mean_cell_type_factorsfact_8,Colonocyte: 0.99,Enterocyte: 0.84,Pre-B: 0.8,Tuft: 0.73,LTi-like NK/T: 0.7,Mesoderm 1 (HAND1+): 0.7,Macrophages: 0.59,LEC5 (CLDN11+): 0.42,EECs: 0.42,ILCP: 0.32
